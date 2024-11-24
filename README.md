@@ -5,14 +5,6 @@
 📖 热爱学习新技术，积极探索移动开发领域  
 📬 **欢迎沟通交流！**
 
----
-
-## 📊 我的 GitHub 数据展示
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitByte404&layout=compact&theme=tokyonight)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bitByte404&theme=vue)](https://github.com/bitByte404/github-readme-activity-graph)
 
 ---
 
@@ -34,3 +26,12 @@
 - ✍️ 博客：[https://blog.csdn.net/weixin_75207021](https://blog.csdn.net/weixin_75207021)
 
 **期待你的关注与交流！**
+
+---
+
+## 📊 我的 GitHub 数据展示
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitByte404&layout=compact&theme=tokyonight)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bitByte404&theme=vue)](https://github.com/bitByte404/github-readme-activity-graph)
