@@ -22,7 +22,7 @@
 
 ## 🔗 我的社交媒体
 
-- 🎥 Bilibili：[https://space.bilibili.com/471714355](https://space.bilibili.com/471714355)  
+- 📺 Bilibili：[https://space.bilibili.com/471714355](https://space.bilibili.com/471714355)  
 - ✍️ 博客：[https://blog.csdn.net/weixin_75207021](https://blog.csdn.net/weixin_75207021)
 
 **期待你的关注与交流！**
