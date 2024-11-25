@@ -19,7 +19,7 @@
 - **了解的工具与框架：**
   - 🔧 Git / GitHub / GitLab
   - 🛠️ 鸿蒙原生开发 (ArkTS)
-  - 🌐 React 基础开发
+  - 🌐 React Web前端开发
 
 ---
 
