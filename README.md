@@ -14,8 +14,6 @@
 📬 **欢迎沟通交流！**
 
 
----
-
 ## 🛠️ 技术栈
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=androidstudio,flutter,java,kotlin,dart,react,html,css,js,linux,git,vscode,idea,md" />
@@ -31,13 +29,15 @@
  
 ## 📊 我的 GitHub 数据展示
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitByte404&layout=compact&theme=tokyonight)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bitByte404&theme=vue)](https://github.com/bitByte404/github-readme-activity-graph)
+<div align="center">
+    <span>&emsp;&emsp;</span>
+    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitByte404&layout=compact&theme=tokyonight" />
+    <span>&emsp;&emsp;</span>
+    <img height="175px" src="https://github-readme-activity-graph.vercel.app/graph?username=bitByte404&theme=vue" />
+    <span>&emsp;&emsp;</span>
+</div>
 
 ---
 
 **期待你的关注与交流！**
 
----
