@@ -16,7 +16,7 @@
 
 ## 🛠️ 技术栈
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=androidstudio,flutter,java,kotlin,dart,react,html,css,js,linux,git,vscode,idea,md" />
+<img src="https://skillicons.dev/icons?i=androidstudio,flutter,java,kotlin,dart,ts,js,react,vue,html,css,linux,git,vscode,idea,md" />
 </a>
 
 - **主修技术：**
