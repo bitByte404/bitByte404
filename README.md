@@ -34,8 +34,8 @@
     <span>&emsp;&emsp;</span>
     <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitByte404&layout=compact&theme=tokyonight" />
     <span>&emsp;&emsp;</span>
-    <img height="140px" src="https://github-readme-activity-graph.vercel.app/graph?username=bitByte404&theme=vue" />
-    <span>&emsp;&emsp;</span>
+<!--     <img height="140px" src="https://github-readme-activity-graph.vercel.app/graph?username=bitByte404&theme=vue" />
+    <span>&emsp;&emsp;</span> -->
 </div>
 
 ---
